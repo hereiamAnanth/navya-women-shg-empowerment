@@ -556,7 +556,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '14 Months after Finishing School',
       familyImpact: 'Enrolled two daughters in English-medium higher secondary school and installed rooftop solar lighting.',
     },
-    image: '/src/assets/images/artisan_weaving_1791487453796.jpg',
+    image: '/assets/images/artisan_weaving_1791487453796.jpg',
     sustainabilityTags: ['Azo-Free Dye', 'Zero Carbon Footprint', 'Direct Artisan Payout', 'FSSAI / Handloom Mark'],
   },
   {
@@ -582,7 +582,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '9 Months from mill commissioning',
       familyImpact: 'Constructed an all-weather brick home and redeemed 1.5 acres of mortgaged family farmland.',
     },
-    image: '/src/assets/images/finishing_school_1791487476738.jpg',
+    image: '/assets/images/finishing_school_1791487476738.jpg',
     sustainabilityTags: ['Solar Powered Processing', 'Zero Additives', 'Recycled Glass Bottling', 'Organic Certified'],
   },
   {
@@ -608,7 +608,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '11 Months',
       familyImpact: 'Installed household tap water filter and established a year-round pantry buffer.',
     },
-    image: '/src/assets/images/landscape_farming_1791487498393.jpg',
+    image: '/assets/images/landscape_farming_1791487498393.jpg',
     sustainabilityTags: ['Bee-Friendly Extraction', 'Forest Biosphere Origin', 'Lab Tested Purity', 'Raw & Unpasteurized'],
   },
   {
@@ -634,7 +634,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '8 Months',
       familyImpact: 'Purchased electric pottery wheels and ended dependence on grueling manual clay foot-kneading.',
     },
-    image: '/src/assets/images/hero_women_collective_1791487435923.jpg',
+    image: '/assets/images/hero_women_collective_1791487435923.jpg',
     sustainabilityTags: ['100% Biodegradable', 'Zero Lead / Zero Glaze', 'Naturally Cooling', 'Traditional Kiln'],
   },
   {
@@ -660,7 +660,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '6 Months',
       familyImpact: 'Built an elevated flood-resilient house plinth and invested in a community solar generator.',
     },
-    image: '/src/assets/images/artisan_weaving_1791487453796.jpg',
+    image: '/assets/images/artisan_weaving_1791487453796.jpg',
     sustainabilityTags: ['Renewable Bamboo', 'Smoke Treated (Pesticide-Free)', 'Plastic-Free Packaging', 'Flood-Buffer Sourcing'],
   },
   {
@@ -686,7 +686,7 @@ export const ARTISAN_PRODUCTS: ArtisanProduct[] = [
       timeline: '12 Months',
       familyImpact: 'Financed university tuition fees for her niece and bought a community weighing station.',
     },
-    image: '/src/assets/images/finishing_school_1791487476738.jpg',
+    image: '/assets/images/finishing_school_1791487476738.jpg',
     sustainabilityTags: ['High Curcumin 8.2%', 'Lab Tested Pure', 'Sun Shadow Dried', 'Farmer-Owned Brand'],
   },
 ];
@@ -699,7 +699,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Sitamarhi, Bihar',
     year: '2026',
     caption: 'Women of the Mahila Pragati SHG review their mutual savings passbooks under the shade of a central village banyan tree.',
-    image: '/src/assets/images/hero_women_collective_1791487435923.jpg',
+    image: '/assets/images/hero_women_collective_1791487435923.jpg',
   },
   {
     id: 'g-2',
@@ -708,7 +708,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Chanderi, Madhya Pradesh',
     year: '2026',
     caption: 'Master weaver Kamla Meena operating the newly modified fly-shuttle pit loom, weaving silk stoles for direct corporate partners.',
-    image: '/src/assets/images/artisan_weaving_1791487453796.jpg',
+    image: '/assets/images/artisan_weaving_1791487453796.jpg',
   },
   {
     id: 'g-3',
@@ -717,7 +717,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Udaipur Rural Center, Rajasthan',
     year: '2026',
     caption: 'Entrepreneurs in the 12-week Finishing School learning barcode generation, tablet ledger entry, and FSSAI packaging guidelines.',
-    image: '/src/assets/images/finishing_school_1791487476738.jpg',
+    image: '/assets/images/finishing_school_1791487476738.jpg',
   },
   {
     id: 'g-4',
@@ -726,7 +726,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Mayurbhanj, Odisha',
     year: '2026',
     caption: 'Women farmers checking moisture levels in their chemical-free permaculture plot powered by a community solar micro-pump.',
-    image: '/src/assets/images/landscape_farming_1791487498393.jpg',
+    image: '/assets/images/landscape_farming_1791487498393.jpg',
   },
   {
     id: 'g-5',
@@ -735,7 +735,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Barabanki, Uttar Pradesh',
     year: '2026',
     caption: 'Graduated entrepreneur Savitri Bai inspecting cold-pressed mustard oil batches packaged with certified nutritional tracking.',
-    image: '/src/assets/images/artisan_entrepreneur_1791525508149.jpg',
+    image: '/assets/images/artisan_entrepreneur_1791525508149.jpg',
   },
   {
     id: 'g-6',
@@ -744,7 +744,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     location: 'Similipal Biosphere, Odisha',
     year: '2026',
     caption: 'Indigenous women forest protectors convening with block officers to ratify community non-timber forest produce rights.',
-    image: '/src/assets/images/hero_women_collective_1791487435923.jpg',
+    image: '/assets/images/hero_women_collective_1791487435923.jpg',
   },
 ];
 

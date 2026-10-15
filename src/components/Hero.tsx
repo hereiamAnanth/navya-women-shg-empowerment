@@ -108,7 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ onExplore6Ls, onExploreArtisans }) =
 
               <div className="relative overflow-hidden rounded-xl bg-stone-200 border border-stone-300 shadow-md aspect-4/3 sm:aspect-16/10 lg:aspect-4/3">
                 <img
-                  src="/src/assets/images/hero_women_collective_1791487435923.jpg"
+                  src="/assets/images/hero_women_collective_1791487435923.jpg"
                   alt="Women leaders of Mahila Pragati SHG reviewing group passbooks under a village banyan tree"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
                   referrerPolicy="no-referrer"

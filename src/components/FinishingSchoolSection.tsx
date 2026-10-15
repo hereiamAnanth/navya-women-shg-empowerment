@@ -36,7 +36,7 @@ export const FinishingSchoolSection: React.FC<FinishingSchoolSectionProps> = ({ 
           <ScaleInView className="lg:col-span-6 relative group">
             <div className="relative overflow-hidden rounded-2xl bg-stone-200 border border-stone-300 shadow-md aspect-4/3">
               <img
-                src="/src/assets/images/finishing_school_1791487476738.jpg"
+                src="/assets/images/finishing_school_1791487476738.jpg"
                 alt="Women entrepreneurs in the Finishing School testing barcode scanners and product packaging"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
                 referrerPolicy="no-referrer"

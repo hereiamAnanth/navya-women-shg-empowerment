@@ -22,7 +22,7 @@ const ARTISAN_CASE_TRAJECTORIES: TrajectoryData[] = [
     initialState: 'Casual brick kiln laborer & distressed loom weaver selling to middlemen at ₹180/stole',
     finalState: 'Registered Weavers Guild Director with 4 pneumatic frame looms & direct Mumbai boutique contracts',
     breakthroughQuote: 'Earlier, the contractor dictated my price while my children went hungry. Today, I set our export rate with dignity.',
-    image: '/src/assets/images/artisan_entrepreneur_1791525508149.jpg',
+    image: '/assets/images/artisan_entrepreneur_1791525508149.jpg',
     incomeProgression: [
       { month: 'Month 0', income: 1800, debtFree: 15, margin: 12 },
       { month: 'Month 3', income: 3200, debtFree: 38, margin: 24 },
@@ -39,7 +39,7 @@ const ARTISAN_CASE_TRAJECTORIES: TrajectoryData[] = [
     initialState: 'Smallholder selling raw harvested mustard seeds at distressed harvest glut prices',
     finalState: 'Solar wooden ghani micro-mill co-owner bottling 800L monthly with FSSAI lab certification',
     breakthroughQuote: 'We stopped giving our seeds to the traders. We bottle our own purity and our women collective keeps every rupee.',
-    image: '/src/assets/images/finishing_school_1791487476738.jpg',
+    image: '/assets/images/finishing_school_1791487476738.jpg',
     incomeProgression: [
       { month: 'Month 0', income: 2400, debtFree: 20, margin: 15 },
       { month: 'Month 3', income: 4100, debtFree: 45, margin: 30 },
@@ -56,7 +56,7 @@ const ARTISAN_CASE_TRAJECTORIES: TrajectoryData[] = [
     initialState: 'Dangerous tree climbs and destructive hive burning selling crude wax at ₹60/kg',
     finalState: 'Scientific box apiarist harvesting multi-flora unheated honey tested for international purity',
     breakthroughQuote: 'The forest bees are our partners now. The finishing school gave us stainless steel extractors and digital refractometers.',
-    image: '/src/assets/images/artisan_weaving_1791487453796.jpg',
+    image: '/assets/images/artisan_weaving_1791487453796.jpg',
     incomeProgression: [
       { month: 'Month 0', income: 1500, debtFree: 10, margin: 10 },
       { month: 'Month 3', income: 2800, debtFree: 32, margin: 25 },
