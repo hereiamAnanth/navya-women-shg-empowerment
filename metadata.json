@@ -1,0 +1,6 @@
+{
+  "name": "Navya — Women SHG Empowerment",
+  "description": "NAVYA is a women’s empowerment programme that helps rural women and young women gain business skills, improve well-being, access markets, earn sustainable income, and become confident community leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
